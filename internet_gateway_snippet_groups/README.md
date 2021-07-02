@@ -1,4 +1,4 @@
-# PAN-OS Networking Configs
+# internet gateway snippet groups
 
 designed for configurations requiring a basic internet gateway setup
 
