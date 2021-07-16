@@ -58,7 +58,7 @@ variables:
   - name: dataplane_default_gateway
     description: routing default gateway for dataplane traffic
     default: 192.168.1.254
-    type_hint: ip_addr
+    type_hint: ip_address
 
 snippets:
   - name: interface_management_profile_ping_only
